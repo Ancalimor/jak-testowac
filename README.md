@@ -1,0 +1,2 @@
+# jak-testowac
+pod kurs
